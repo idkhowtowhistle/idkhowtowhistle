@@ -1,4 +1,4 @@
-# Hi, I'm Henzow!
+# Hi, I'm IdkHowToWhistle!
 
 <p>
   <a href="https://discordapp.com/users/1410293440281051209">
@@ -17,7 +17,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/henzow2/Hexagon">Hexagon</a></td>
+        <td><a href="https://github.com/idkhowtowhistle/Hexagon">Hexagon</a></td>
       </tr>
     </tbody>
   </table>
